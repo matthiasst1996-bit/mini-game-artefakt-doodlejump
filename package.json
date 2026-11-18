@@ -1,0 +1,16 @@
+{
+  "name": "mini-game-artefakt-doodlejump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^31.0.1",
+    "playwright": "^1.65.1"
+  }
+}
